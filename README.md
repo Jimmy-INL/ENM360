@@ -2,7 +2,7 @@
 
 ### Course Description
 
-From recognizing voice, text or images to designing more efficient airplane wings and discovering new drugs, machine learning is introducing a transformative set of tools in data analysis with increasing impact across engineering, sciences, and commercial applications. In this course, you will learn about principles and algorithms for extracting patterns from data and and making effective automated predictions. We will cover concepts such as regression, classification, density estimation, feature extraction, sampling, and probabilistic modeling, and provide a formal understanding of how, why, and when these methods work in the context of analyzing physical, biological, and engineering systems. 
+From recognizing voice, text or images to designing more efficient airplane wings and discovering new drugs, machine learning is introducing a transformative set of tools in data analysis with increasing impact across engineering, sciences, and commercial applications. In this course, you will learn about principles and algorithms for extracting patterns from data and and making effective automated predictions. We will cover concepts such as regression, classification, density estimation, feature extraction, sampling, and probabilistic modeling, and provide a formal understanding of how, why, and when these methods work in the context of analyzing physical, biological, and engineering systems.
 
 
 ### Course prerequisites
@@ -19,7 +19,7 @@ From recognizing voice, text or images to designing more efficient airplane wing
 
 Students will leave this course with experience in:
 
-- Learning how to analyze and synthesize data towards enhancing their understanding and ability to model physical, biological, and engineering systems. 
+- Learning how to analyze and synthesize data towards enhancing their understanding and ability to model physical, biological, and engineering systems.
 - Hands-on skills on contemporary machine learning tools enabling them to construct prediction models, extract patterns and characterize the statistical properties of data.
 - Applications of these tools spanning a diverse set of engineering disciplines, including fluid dynamics, heat transfer, mechanical design, and biomedical engineering.
 
@@ -33,9 +33,8 @@ Students will leave this course with experience in:
 
 Please consult the TA regarding issues related to course material, homework problems, setting up your computing enviroment, code design, implementation, and execution.
 
-TA: George Kissas,  Zoom Office Hours: TBA, Email: <gkissas@seas.upenn.edu>
-
+TA: George Kissas,  Office Hours: Mondays 1-2 pm, and Wednesdays 9-10 am EST, [via Zoom](https://zoom.us/j/4211041207?pwd=dzM2bkNUSFZZT3NtODZRbjRCWDlQdz09
+), Email: <gkissas@seas.upenn.edu>
 ### Note
 
 This syllabus is a work in progress. The lesson plan is subject to change depending on the progress and success of the students in the class. Any changes will be notified to students.
-
